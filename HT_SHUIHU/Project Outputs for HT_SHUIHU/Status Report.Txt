@@ -1,0 +1,13 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [HT_SHUIHU.PrjPcb]
+   Generated File[SHUIHU_Mechanical_1.gbr]
+   Generated File[SHUIHU.RUL]
+   Generated File[SHUIHU.EXTREP]
+   Generated File[SHUIHU.REP]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 10:35:21 On 2020/7/10

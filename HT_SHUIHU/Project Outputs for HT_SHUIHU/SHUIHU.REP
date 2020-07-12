@@ -1,0 +1,16 @@
+*************************************************************
+FileName = SHUIHU.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mechanical 1
+      File : SHUIHU_Mechanical_1.gbr
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+

@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=POWER Member=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=EC3-1
+Added Pin To Net: NetName=NetD1_2 Pin=L1-1
+Added Net: Name=NetD1_2
+Added Room: Name=POWER

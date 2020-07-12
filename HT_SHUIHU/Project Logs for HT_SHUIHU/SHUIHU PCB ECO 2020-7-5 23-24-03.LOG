@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=CON1 NewDesignator=220Vac-
+Change Component Designator: OldDesignator=CON2 NewDesignator=220Vac+
+Added Room: Name=POWER

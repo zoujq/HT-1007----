@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NTC Pin=R8-2
+Removed Member From Class: ClassName=POWER Member=CON3
+Removed Member From Class: ClassName=POWER Member=CON4
+Change Component Comment : Designator=CON1 Old Comment= New Comment=L
+Change Component Comment : Designator=CON2 Old Comment= New Comment=N
+Added Component: Designator=HOT1(HanJie)
+Add component. Clean all parameters for all variants
+Added Component: Designator=HOT2(HanJie)
+Add component. Clean all parameters for all variants
+Added Component: Designator=NTC1(HanJie)
+Add component. Clean all parameters for all variants
+Added Component: Designator=NTC2(HanJie)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=5V/0.2A Pin=CON1-1
+Added Pin To Net: NetName=220V-N Pin=CON2-1
+Added Pin To Net: NetName=220V-N Pin=HOT2-1
+Added Pin To Net: NetName=5V/0.2A Pin=NTC1-1
+Added Pin To Net: NetName=NTC Pin=NTC2-1
+Added Pin To Net: NetName=NTC Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=NetHOT1_1 Pin=HOT1-1
+Added Pin To Net: NetName=NetHOT1_1 Pin=Q1-2
+Added Net: Name=NetHOT1_1
+Added Member To Class: ClassName=POWER Member=Component HOT1
+Added Member To Class: ClassName=POWER Member=Component HOT2 
+Added Member To Class: ClassName=POWER Member=Component NTC1 
+Added Member To Class: ClassName=POWER Member=Component NTC2 
+Added Room: Name=POWER

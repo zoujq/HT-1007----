@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=R3 Old Footprint=6-0805_N New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R4 Old Footprint=6-0805_N New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R5 Old Footprint=6-0805_N New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R6 Old Footprint=6-0805_N New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R7 Old Footprint=6-0805_N New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R8 Old Footprint=6-0805_N New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=C4 Old Footprint=6-0805_N New Footprint=RAD-0.3
+Change Component Footprint: Designator=D2 Old Footprint=1812 New Footprint=DO-41
+Change Component Footprint: Designator=D3 Old Footprint=1812 New Footprint=SMC
+Change Component Footprint: Designator=FU1 Old Footprint=BaoXianSi New Footprint=PIN-W2/E2.8
+Change Component Footprint: Designator=C6 Old Footprint=C 0805(2012)x0.85 New Footprint=RAD-0.3
+Change Component Footprint: Designator=L1 Old Footprint=DianGan-12.5mm New Footprint=0402-A
+Change Component Footprint: Designator=L2 Old Footprint=DianGan New Footprint=0402-A
+Change Component Footprint: Designator=EC5 Old Footprint=DianRong-3.2mm New Footprint=RB7.6-15
+Change Component Footprint: Designator=EC4 Old Footprint=DianRong-3.3mm New Footprint=RB7.6-15
+Change Component Footprint: Designator=C1 Old Footprint=X2-AnGuiDianRong New Footprint=RAD-0.3
+Change Component Footprint: Designator=U1 Old Footprint=YaMinDianZhu New Footprint=C Disc HV PCM5 D9.0x2.5
+Change Component Comment: Designator=D1 Old Comment=M7 New Comment=1N4007

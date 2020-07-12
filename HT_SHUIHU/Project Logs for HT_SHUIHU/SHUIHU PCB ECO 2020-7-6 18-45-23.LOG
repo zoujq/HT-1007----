@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=5V/0.2A Pin=220Vac--1
+Removed Pin From Net: NetName=NetC1_1 Pin=FU1-2
+Removed Pin From Net: NetName=NetC1_1 Pin=R2-1
+Added Pin To Net: NetName=NetC1_1 Pin=220Vac+-1
+Added Pin To Net: NetName=5V/0.2A Pin=FU1-2
+Added Pin To Net: NetName=NetC1_1 Pin=HOT2-1
+Change Net Name : Old Net Name=NetC1_1 New Net Name=220V-N
+Added Pin To Net: NetName=Net220Vac-_1 Pin=220Vac--1
+Added Pin To Net: NetName=Net220Vac-_1 Pin=FU1-1
+Added Net: Name=Net220Vac-_1
+Added Room: Name=POWER

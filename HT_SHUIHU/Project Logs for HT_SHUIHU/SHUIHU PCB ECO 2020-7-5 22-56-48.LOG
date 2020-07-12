@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=CON6 NewDesignator=CON5
+Added Component: Designator=CON1(HanJie)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CON6(HanJie)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=POWER Member=Component CON1 
+Added Member To Class: ClassName=POWER Member=Component CON6 

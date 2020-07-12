@@ -1,0 +1,9 @@
+Change Component Comment : Designator=U2 Old Comment=PN8015M New Comment=PN8015
+Added Pin To Net: NetName=NetEC4_1 Pin=U2-1
+Added Pin To Net: NetName=NetC6_2 Pin=U2-2
+Added Pin To Net: NetName=NetEC2_1 Pin=U2-3
+Added Pin To Net: NetName=NetC4_1 Pin=U2-4
+Added Pin To Net: NetName=NetC4_1 Pin=U2-5
+Added Pin To Net: NetName=NetC4_1 Pin=U2-6
+Added Pin To Net: NetName=NetC4_1 Pin=U2-7
+Added Room: Name=POWER

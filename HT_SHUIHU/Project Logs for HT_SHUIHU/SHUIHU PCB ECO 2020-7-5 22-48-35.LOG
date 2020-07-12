@@ -1,0 +1,10 @@
+Added Component: Designator=U2(SOP7-PN8015M)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=HOT Pin=CON5-3
+Added Pin To Net: NetName=HOT Pin=R7-2
+Added Net: Name=HOT
+Added Pin To Net: NetName=NTC Pin=CON5-5
+Added Pin To Net: NetName=NTC Pin=R8-2
+Added Net: Name=NTC
+Added Member To Class: ClassName=POWER Member=Component U2 PN8015M
+Added Room: Name=POWER
